@@ -1,0 +1,4 @@
+dsn: "postgres://gjzrhosm:iMQ-dyBUv_Q6hL9SvBgG29OGU50Fh7L_@hattie.db.elephantsql.com/gjzrhosm"
+serviceapikey: "fca_live_bccACPRd97j9nzlBtCx5SRJ2GDEWRJvDfUU3xNTH"
+basecurrency: "USD"
+interval: "1m"
